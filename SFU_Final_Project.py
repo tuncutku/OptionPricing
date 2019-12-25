@@ -4,7 +4,6 @@
 Created on Sat Nov  2 22:23:12 2019
 
 @author: tuncutku
-@SFU - Beedie School of Business
 """
 
 # Import Libraries
