@@ -7,5 +7,7 @@ The alternative methods include various machine learning (ML) algorithms classif
 As a part of the calibration process, real market data used for the Merton jump diffusion model and CIR model. Finally, the paper compares errors with each ML algorithms to arrive to the most appropriate algorithm.
 
 Date Published: 2019-12
+
 Author: Tunc Utku
+
 Link: http://summit.sfu.ca/item/19599
